@@ -1,0 +1,10 @@
+ShopNames,Ашан,Перекресток,Пятерочка,Могнолия,Билла,Атак
+ShopTypes,Гиппер,Суппер,Мега,Ультра,1200м,700м
+ShopAddresses,address1,address2,address3,address4,address5,address6
+Descriptions,1kg,0.2l,200mlg,0.5kg,1l
+ProductClasses,напитки,хлебная выпечка,канцтовары,бытовая химия,услуги,молочные изделия
+ProductTypes,Соки|1,Газировка|1,Вода|1,Алкоголь|1,Молоко|6,Хлеб|2
+ProductLists,CocaCola|2,Fanta|2,Pepsi|2,Sprite|2,Вино|4,Крепкий алкоголь|4,Пиво|4,Исгристые вина|4,Молоко Веселый Молочник|5
+Products,Bad|7|1,CocaCola|1|1
+Shops,1|6|1,2|1|2
+Shop_Products,1|1|45,1|2|60,2|1|70,2|2|1200

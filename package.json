@@ -1,0 +1,30 @@
+{
+  "name": "dbShops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erliokos/dbShops.git"
+  },
+  "keywords": [],
+  "author": "Erliokos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erliokos/dbShops/issues"
+  },
+  "homepage": "https://github.com/Erliokos/dbShops#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.12.0-alpha.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.3.0"
+  }
+}
